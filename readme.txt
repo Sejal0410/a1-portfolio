@@ -11,44 +11,53 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 2/2 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+- Headings and paragraph text
+- Links to external pages, including LinkedIn and Github
+- Semantic HTML tags, including header, nav, seaction, and footer
 
 
 (b) CSS features
-
+- Custom colors for the sage green, brown, and cream color scheme
+- Padding and margins for spacing and readability
+- Additional styling including rounded corners, hover effects, and shadows
 
 
 (c) Advanced features
+- Navigation bar that links to different sections of the portfolio
+- Responsive layout that adjusts for smaller screen sizes
 
 
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
-
+Achecker reported 0 known problems and 0 unlikely problems. It did though report 34 potential problems that require manual review.
 
 4. How long, in hours, did it take you to complete this assignment?
 
+About 4-5 hours
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 
+- ChatGPT: Used for help understanding the assignment requirements, CSS styling, Git/GitHub issues, and troubleshooting.
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
-
+- N/A
 
 7. Is there anything special we need to know in order to run your code?
 
+- No
